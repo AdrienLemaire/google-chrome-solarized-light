@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Solarized Light",
+  "theme": {
+    "colors": {
+      "bookmark_text": [ 88, 110, 117 ],
+      "button_background": [ 253, 246, 227 ],
+      "control_background": [ 253, 246, 227 ],
+      "frame": [ 253, 246, 227 ],
+      "ntp_background": [ 253, 246, 227 ],
+      "ntp_header": [ 181, 137, 0 ],
+      "ntp_link": [ 38, 139, 210 ],
+      "ntp_link_underline": [ 38, 139, 210 ],
+      "ntp_section": [ 238, 232, 213 ],
+      "ntp_section_link": [ 38, 139, 210 ],
+      "ntp_section_link_underline": [ 38, 139, 210 ],
+      "ntp_section_text": [ 101, 123, 131 ],
+      "ntp_text": [ 101, 123, 131 ],
+      "tab_background_text": [ 147, 161, 161 ],
+      "tab_text": [ 88, 110, 117 ],
+      "toolbar": [ 238, 232, 213 ]
+    },
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    }
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0"
+}
