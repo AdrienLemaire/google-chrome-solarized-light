@@ -1,6 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Solarized Light",
+  "description": "a Light version of the Solarized theme for Chrome",
+  "icons": {"128": "icon128.png"},
+  "author": "Adrien Lemaire <lemaire.adrien@gmail.com>",
   "theme": {
     "colors": {
       "bookmark_text": [ 88, 110, 117 ],
